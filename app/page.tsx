@@ -29,7 +29,7 @@ export default function Home() {
           {/* GitHub Button */}
           <div>
             <a
-              href="https://github.com/jeneya-cabildo/ai-agent-dev-setup-requirements"
+              href="https://github.com/jeneya-cabildo/my-app"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block rounded-lg bg-black px-6 py-2 font-semibold text-white transition-colors hover:bg-gray-800"
@@ -58,7 +58,7 @@ export default function Home() {
           <p className="text-xs text-gray-400">
             Introduction Page • Full Stack & Agentic AI Developer
           </p>
-        </div>
+        </div>        https://github.com/jeneya-cabildo/ai-agent-dev-setup-requirements
       </div>
     </div>
   );
