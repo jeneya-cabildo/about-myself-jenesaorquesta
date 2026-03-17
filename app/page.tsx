@@ -1,6 +1,6 @@
 export const metadata = {
   title: "Jenesa Orquesta - Web Developer",
-  description: "Full Stack and Agentic AI Developer",
+  description: "Full Stack and Agentic AI Developer | Building innovative web solutions",
 };
 
 export default function Home() {
