@@ -54,7 +54,11 @@ export default function Home() {
         </div>
 
         {/* Footer */}
-       
+        <div className="pt-8">
+          <p className="text-xs text-gray-400">
+            Introduction Page • Full Stack & Agentic AI Developer
+          </p>
+        </div>
       </div>
     </div>
   );
