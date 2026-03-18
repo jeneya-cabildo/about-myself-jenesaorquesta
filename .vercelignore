@@ -1,0 +1,13 @@
+# Vercel Deployment Files (.vercelignore)
+# This file tells Vercel which files to ignore during build
+
+.git
+.gitignore
+node_modules
+npm-debug.log
+.env.local
+.env.*.local
+.DS_Store
+*.pem
+.next/
+.vercel
