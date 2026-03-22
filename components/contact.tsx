@@ -26,7 +26,7 @@ const socialLinks = [
 
 export function Contact() {
   return (
-    <section id="contact" className="py-20 sm:py-32 bg-gradient-to-br from-blue-50 to-blue-100 dark:from-blue-950 dark:to-blue-900 border-t border-blue-200 dark:border-blue-800">
+    <section id="contact" className="py-20 sm:py-32 bg-white dark:bg-slate-950 border-t border-slate-200 dark:border-slate-800">
       <div className="mx-auto max-w-2xl px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-12">
           <h2 className="text-4xl font-bold tracking-tight text-slate-900 dark:text-slate-50 mb-4">
@@ -46,7 +46,7 @@ export function Contact() {
                 href={link.href}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="rounded-lg border border-blue-200 dark:border-blue-700 bg-white dark:bg-slate-800 p-6 hover:shadow-lg transition-shadow group"
+                className="rounded-lg border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 p-6 hover:shadow-lg transition-shadow group"
               >
                 <div className="flex items-center justify-center mb-4">
                   <Icon className="h-8 w-8 text-blue-600 dark:text-blue-400 group-hover:scale-110 transition-transform" />
@@ -62,7 +62,7 @@ export function Contact() {
           })}
         </div>
 
-        <div className="rounded-lg border border-blue-200 dark:border-blue-700 bg-white dark:bg-slate-800 p-8 text-center">
+        <div className="rounded-lg border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 p-8 text-center">
           <h3 className="text-2xl font-bold text-slate-900 dark:text-slate-50 mb-4">
             Want to work together?
           </h3>
@@ -78,7 +78,7 @@ export function Contact() {
           </Button>
         </div>
 
-        <div className="mt-8 pt-8 border-t border-blue-200 dark:border-blue-700">
+        <div className="mt-8 pt-8 border-t border-slate-200 dark:border-slate-700">
           <p className="text-center text-sm text-slate-600 dark:text-slate-400">
             This CV website was created using v0.dev and Next.js 15, demonstrating modern web development practices and AI-powered interface generation.
           </p>

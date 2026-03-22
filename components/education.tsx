@@ -2,7 +2,7 @@
 
 export function Education() {
   return (
-    <section className="py-20 sm:py-32 bg-slate-50 dark:bg-slate-900 border-t border-slate-200 dark:border-slate-800">
+    <section className="py-20 sm:py-32 bg-white dark:bg-slate-950 border-t border-slate-200 dark:border-slate-800">
       <div className="mx-auto max-w-2xl px-4 sm:px-6 lg:px-8">
         <h2 className="text-4xl font-bold tracking-tight text-slate-900 dark:text-slate-50 mb-12">
           Education
@@ -20,7 +20,7 @@ export function Education() {
                 </p>
               </div>
               <span className="text-sm font-medium text-slate-600 dark:text-slate-400 whitespace-nowrap">
-                2022 - Present
+                2026 - Present
               </span>
             </div>
             
@@ -39,15 +39,7 @@ export function Education() {
                 </li>
                 <li className="flex items-start text-slate-700 dark:text-slate-300">
                   <span className="h-2 w-2 rounded-full bg-blue-600 dark:bg-blue-400 mr-3 mt-2 flex-shrink-0" />
-                  <span>Full Stack Development Practices</span>
-                </li>
-                <li className="flex items-start text-slate-700 dark:text-slate-300">
-                  <span className="h-2 w-2 rounded-full bg-blue-600 dark:bg-blue-400 mr-3 mt-2 flex-shrink-0" />
-                  <span>Software Engineering and Design Patterns</span>
-                </li>
-                <li className="flex items-start text-slate-700 dark:text-slate-300">
-                  <span className="h-2 w-2 rounded-full bg-blue-600 dark:bg-blue-400 mr-3 mt-2 flex-shrink-0" />
-                  <span>Emerging Technologies including AI and Automation</span>
+                  <span>Full Stack & Agentic AI Developer</span>
                 </li>
               </ul>
             </div>

@@ -9,7 +9,7 @@ const experiences = [
     title: 'Bachelor of Science in Information Technology',
     organization: 'St. Paul University Philippines',
     description: 'Specializing in Web Development, currently in 3B year. Engaged in comprehensive study of modern web technologies, software engineering principles, and emerging technologies including Agentic AI.',
-    date: '2022 - Present',
+    date: '2026 - Present',
     highlights: ['Web Development Specialization', 'Full Stack Development Focus', 'AI & Modern Frameworks']
   },
   {
@@ -27,7 +27,7 @@ const experiences = [
     title: 'Agentic AI Developer Track',
     organization: 'Bootcamp & Self-Learning',
     description: 'Focused learning path in Agentic AI development, including v0.dev for AI-powered interface generation, prompt engineering, and autonomous agent development. Building AI-first applications.',
-    date: '2024 - Present',
+    date: 'Ongoing',
     highlights: ['v0.dev Mastery', 'Prompt Engineering', 'AI-Generated Interfaces', 'Agent Architecture']
   }
 ]
